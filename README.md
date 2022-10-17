@@ -2,7 +2,8 @@
 - 👀 I’m interested in machine learning, data science and deep learning.
 - 🌱 I’m currently learning experimental mathematics with sage.
 - 💞️ I’m looking to collaborate on anything data science and machine learning.
-- 📫 How to reach me emails;victoriak@aims.ac.za and victoriakioko1997@gmail.com
+- 📫 How to reach me emails;victoriak@aims.ac.za and victoriakioko1997@gmail.com,
+linked in:www.linkedin.com/in/victoriakioko
 
 <!---
 victoria-ndunge/victoria-ndunge is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
